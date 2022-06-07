@@ -1,0 +1,1 @@
+netsh advfirewall firewall add rule name="PhantomClassUpdate" dir="out" action=allow program="C:\Program Files\PhantomClass\PhantomClassAgent\PhantomClassUpdate.exe" enable=yes
